@@ -1,5 +1,5 @@
 {
-  "name": "iscss",
+  "name": "@salsan/iscss",
   "version": "1.0.0",
   "description": "isCss is a Node.js package, return true if input is a valid Cascading Style Sheets",
   "main": "./dist/index.js",
@@ -16,7 +16,8 @@
   "keywords": [
     "css",
     "validator",
-    "typescript"
+    "typescript",
+    "is-css"
   ],
   "author": "Salvatore Santagati",
   "license": "MIT",

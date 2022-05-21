@@ -5,7 +5,7 @@ isCss is a Node.js package, return true if input is a valid Cascading Style Shee
 ## Install
 
 ```bash
-npm install iscss
+npm install @salsan/iscss
 ```
 
 ## Usage
