@@ -2,7 +2,7 @@
   "name": "iscss",
   "version": "1.0.0",
   "description": "isCss is a Node.js package, return true if input is a valid Cascading Style Sheets",
-  "main": "./dist/src/index.js",
+  "main": "./dist/index.js",
   "scripts": {
     "test": "mocha -r ts-node/register ./test/*.spec.ts",
     "build": "tsc --build",
