@@ -11,7 +11,7 @@ npm install @salsan/iscss
 ## Usage
 
 ```js
-const isCss  = require('iscss')
+const isCss  = require('@salsan/iscss')
 const css = 'body { font-size: 12px; }'
 
 isCss(css) // return TRUE
